@@ -1,0 +1,3 @@
+[submodule "no_serial_micro/avr/libraries/LUFA"]
+	path = no_serial_micro/avr/libraries/LUFA
+	url = ../../Palatis/Arduino-Lufa.git
